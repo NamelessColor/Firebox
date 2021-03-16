@@ -12,7 +12,8 @@ Un simple tema de Firefox con una sidebar colapsable (usando sidebery), texto ce
 
 (The color theme is Matte Black (red) by Elijah Lopez)
 
-Without the file "botones" the window control buttons will be messed up so you need to put it in the same folder as your userChrome.
-Sin el archivo "botones" los botones de las ventanas van a estar mal, necesitas ponerlo en la misma carpeta que tu userChrome.
+##### Without the file "botones" the window control buttons will be messed up so you need to put it in the same folder as your userChrome.
+
+##### Sin el archivo "botones" los botones de las ventanas van a estar mal, necesitas ponerlo en la misma carpeta que tu userChrome.
 
 This is my first time doing something like this so I will like to hear your feedback
