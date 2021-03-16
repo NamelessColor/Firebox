@@ -1,0 +1,11 @@
+:root[tabsintitlebar]{
+  --uc-window-control-width: 79px; 
+  --uc-window-drag-space-width: 1px;
+}
+/* Change border right to left if you use your button on the other side */
+/* Cambiar border right a border left si usas los botones de ventan del otro lado*/
+#nav-bar{
+  border-inline: var(--uc-window-drag-space-width,0px) solid var(--toolbar-bgcolor);
+  border-inline-style: solid !important;
+  border-right-width: calc(var(--uc-window-control-width,0px) + var(--uc-window-drag-space-width,0px));
+}
